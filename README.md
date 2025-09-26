@@ -21,6 +21,11 @@ The system demonstrates advanced Python programming skills including data proces
 - Demo GIF to showcase functionality
 
 ---
+## Demo
+
+![Demo](screenshots/demo.gif)
+
+
 
 ### Main UI
 ![Main UI](screenshots/Screenshot%202025-09-26%20110902.png)
@@ -28,9 +33,7 @@ The system demonstrates advanced Python programming skills including data proces
 ### Data Set Selector
 ![Data Set Selector](screenshots/Screenshot%202025-09-26%20110817.png)
 
-## Demo
 
-![Demo](screenshots/demo.gif)
 
 ---
 
