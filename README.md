@@ -25,6 +25,12 @@ A comprehensive machine learning application that analyzes historical admission 
 ### Data Set Selector
 ![Data Set Selector](screenshots/Screenshot%202025-09-26%20110817.png)
 
+## Demo
+
+<video width="600" controls>
+  <source src="screenshots/recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
