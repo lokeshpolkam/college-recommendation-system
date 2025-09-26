@@ -1,38 +1,43 @@
 # AI-Powered College Recommendation System for JEE Main Students
 
-A comprehensive machine learning application that analyzes historical admission data and Value for Money (VFM) metrics to provide personalized college and branch recommendations for Indian engineering students.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## Project Overview
+This is a sophisticated AI-powered college recommendation system for Indian engineering admissions. It uses JEE Main ranks and Value for Money (VFM) analysis to suggest colleges and branches to students. The project consists of three interconnected Python modules that create a complete data pipeline and user interface.
+
+The system demonstrates advanced Python programming skills including data processing, fuzzy string matching, regex-based branch extraction, machine learning, and GUI development using Tkinter.
 
 ---
 
 ## Features
-
-- Multi-dataset processing for college admission data  
-- Fuzzy string matching to handle inconsistencies in college names  
-- Branch extraction using regex for 15+ engineering disciplines  
-- Dynamic admission probability calculation based on JEE Main rank and category  
-- Modern dark-themed Tkinter GUI  
-- Value for Money (VFM) score integration with star ratings  
-- JSON-based model persistence for easy reuse  
+- Multi-dataset processing with Excel/CSV files
+- Fuzzy matching of college names across datasets
+- Branch extraction from program names (15+ engineering disciplines)
+- Dynamic admission probability calculation based on JEE rank
+- Modern dark-themed GUI with VFM score integration
+- Demo GIF to showcase functionality
 
 ---
-
 
 ## Screenshots
 
 ### Main UI
-![Main UI](screenshots/Screenshot%202025-09-26%20110902.png)
+![Main UI](screenshots/main_ui.png)
 
 ### Data Set Selector
-![Data Set Selector](screenshots/Screenshot%202025-09-26%20110817.png)
+![Data Set Selector](screenshots/data_selector.png)
 
 ## Demo
 
 ![Demo](screenshots/demo.gif)
 
+---
 
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/lokeshpolkam/college-recommendation-system.git
-cd college-recommendation-system
