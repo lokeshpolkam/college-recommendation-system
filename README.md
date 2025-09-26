@@ -16,7 +16,6 @@ A comprehensive machine learning application that analyzes historical admission 
 
 ---
 
-## Screenshots
 
 ## Screenshots
 
