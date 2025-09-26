@@ -27,10 +27,8 @@ A comprehensive machine learning application that analyzes historical admission 
 
 ## Demo
 
-<video width="600" controls>
-  <source src="screenshots/recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the demo video](screenshots/recording.mp4)
+
 
 ## Installation
 
