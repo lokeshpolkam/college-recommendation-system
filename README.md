@@ -27,7 +27,10 @@ A comprehensive machine learning application that analyzes historical admission 
 
 ## Demo
 
-[Click here to watch the demo video](screenshots/recording.mp4)
+## Demo
+
+![Demo](screenshots/demo.gif)
+
 
 
 ## Installation
