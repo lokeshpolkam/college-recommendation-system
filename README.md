@@ -18,11 +18,14 @@ A comprehensive machine learning application that analyzes historical admission 
 
 ## Screenshots
 
-### Main UI
-![Main UI](screenshots/ui-dark.png)
+## Screenshots
 
-### Recommendation Output
-![Recommendation Output](screenshots/recommendation.png)
+### Main UI
+![Main UI](screenshots/Screenshot 2025-09-26 110902.png)
+
+### Data Set Selector
+![Data Set Selector](screenshots/Screenshot 2025-09-26 110817.png)
+
 
 ---
 
